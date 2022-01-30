@@ -6,3 +6,5 @@ keras
 keras-rl2
 stable-baselines3[extra]
 python-binance
+mplfinance
+ta
